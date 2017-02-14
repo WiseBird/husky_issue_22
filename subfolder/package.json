@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+  },
+  "devDependencies": {
+    "husky": "0.13.1"
+  },
+  "scripts": {
+    "precommit": "git status"
+  }
+}
+
