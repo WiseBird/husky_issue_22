@@ -5,7 +5,7 @@
     "husky": "0.13.1"
   },
   "scripts": {
-    "precommit": "git status"
+    "precommit": "cd ../ && git status"
   }
 }
 
